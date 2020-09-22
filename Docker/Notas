@@ -1,0 +1,20 @@
+docker build . -t python_numpy = construir nuestra imagen con nombre python_numpy 
+docker run --rm -v $(pwd):/src python_numpy python /src/hello.py
+cat Dockerfile
+vi Dockerfile 
+mv dockerfile Dockerfile
+docker build . -t python_numpy
+
+
+
+Parciales
+ 
+
+Fundamentos de centros de datos
+viernes 2-oct.
+
+Infraestructura Física
+viernes 30-oct.
+
+Infraestructura lógica
+viernes 27-nov.

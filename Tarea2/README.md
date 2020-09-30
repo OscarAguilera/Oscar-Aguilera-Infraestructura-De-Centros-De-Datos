@@ -1,0 +1,2 @@
+# Arquitectura de Cisco Data Center
+Is Simple, Optimized, Secure, On Deman, and for Any Cloud. ACI it can be installed on physical network or any cloud provider, for physical swicth or virtual one. Can be donde using Snapshot to keep the configuration that it is working. It can be installed on existing environment to allow increase the productivity on any application. Inersight can be also installed on UCS, Blades, Rack, HX, or any storage.
